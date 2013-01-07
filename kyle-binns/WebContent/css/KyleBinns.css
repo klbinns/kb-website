@@ -1,0 +1,14 @@
+body {
+	padding-top: 70px;
+	padding-bottom: 40px;
+}
+
+
+.navbar .brand:hover {
+  color: orange;
+}
+
+.navbar .nav > li > a:hover {
+  color: orange;
+}
+
