@@ -161,3 +161,6 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+# Cloud 9 stuff
+.c9revisions
